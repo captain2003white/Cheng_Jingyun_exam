@@ -15,6 +15,15 @@ This project delivers a production-grade, end-to-end Data Engineering pipeline d
 * **Storage Abstraction:** Three-Zone Storage File Hierarchy (Raw JSON, Snappy-compressed Parquet for Curated and Consumption zones).
 * **Application Layer:** Python 3.9+ & Flask REST API frameworks.
 
+## 📂 Project Documentation Index
+
+To explore the deep technical architecture, analytical derivations, and engineering reflections of this platform, please refer to the specialized sub-documentation design files linked below:
+
+* [🏛️ System Architecture Design (`docs/architecture.md`)](./docs/architecture.md) — Detailed behavioral flowcharts, ASCII pipelines, and technical component specifications.
+* [📊 Offline Analytics & Validation (`docs/analytics.md`)](./docs/analytics.md) — Comprehensive data schema derivations and the technical deep-dive into the 0.59x Spark cold-start bottleneck.
+* [🧠 Project Reflection & Retrospective (`docs/reflection.md`)](./docs/reflection.md) — Engineering troubleshooting log handling Windows threading memory leaks and Watermark-Append mechanics.
+* [❓ Architecture & Reliability Q&A](./docs/qa.md) *(or the file name you used)* — Comprehensive analysis of checkpoint strategies, cluster scaling bottlenecks, and structural resilience under sensor fault scenarios.
+
 ---
 
 ## 2. Architecture
