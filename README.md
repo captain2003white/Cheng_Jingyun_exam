@@ -22,7 +22,6 @@ To explore the deep technical architecture, analytical derivations, and engineer
 * [🏛️ System Architecture Design (`docs/architecture.md`)](./docs/architecture.md) — Detailed behavioral flowcharts, ASCII pipelines, and technical component specifications.
 * [📊 Offline Analytics & Validation (`docs/analytics.md`)](./docs/analytics.md) — Comprehensive data schema derivations and the technical deep-dive into the 0.59x Spark cold-start bottleneck.
 * [🧠 Project Reflection & Retrospective (`docs/reflection.md`)](./docs/reflection.md) — Engineering troubleshooting log handling Windows threading memory leaks and Watermark-Append mechanics.
-* [❓ Architecture & Reliability Q&A](./docs/qa.md) *(or the file name you used)* — Comprehensive analysis of checkpoint strategies, cluster scaling bottlenecks, and structural resilience under sensor fault scenarios.
 
 ---
 
