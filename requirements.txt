@@ -1,0 +1,28 @@
+# ==============================================================================
+# IoT Sensor Data Engineering Platform - Core Dependencies
+# ==============================================================================
+
+# 1. Stream Processing & Data Compute Engine
+pyspark==3.5.1
+
+# 2. Storage Abstraction & Columnar IO Operations
+pyarrow==15.0.0
+numpy>=1.26.0
+
+# 3. Message Broker & Ingestion Backbone Integration
+kafka-python==2.3.1
+
+# 4. Serving Layer Web Framework & Analytics Reader
+Flask==3.0.2
+pandas==2.2.1
+
+# 5. Runtime Ecosystem Infrastructure Utilities
+six==1.16.0
+python-dateutil==2.9.0
+click==8.1.7
+colorama==0.4.6
+werkzeug==3.0.1
+jinja2==3.1.3
+markupsafe==2.1.5
+itsdangerous==2.1.2
+blinker==1.7.0

@@ -1,0 +1,4 @@
+sensor_type,year,month,day,hour_of_day,anomaly_count
+temperature,2026,5,19,8,23
+pressure,2026,5,19,8,16
+humidity,2026,5,19,8,6
